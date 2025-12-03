@@ -5,7 +5,7 @@ This is my home page! I'm a first-year computer science major at [Cal State Full
 
 ## Computer Science Projects
 
-My Github page is https://github.com/arflores629
+My Github page is [https://github.com/arflores629](https://github.com/arflores629)
 
 ## Favorite CPSC 120L Labs
 
